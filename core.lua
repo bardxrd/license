@@ -1,1 +1,2 @@
-print("polskagurooom")
+local newScript = Instance.new("Script", game:GetService("ServerScriptService"))
+newScript.Name = "sigmaCore"
